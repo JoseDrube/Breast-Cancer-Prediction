@@ -1,4 +1,4 @@
-# Breast Cancer Diagnostic Analysis Using Machine Learning
+# Breast Cancer Prediction Analysis Using Machine Learning
 ## Introduction
 
 Breast cancer is one of the most frequently diagnosed cancer among women worldwide and a leading cause of cancer-related mortality in females [1]. The disease typically arises from the epithelial lining of the ducts or lobules in the breast, and its progression involves a series of cellular and molecular alterations. One critical aspect of this progression is the transformation of normal breast epithelial cells into malignant cells, a process often characterized by changes in nuclear morphology. Nuclear morphometric features—such as size, shape, chromatin distribution, and nucleolar characteristics—play a pivotal role in the histopathological diagnosis of breast cancer. Numerous studies have demonstrated that alterations in these nuclear features are closely associated with tumor grade and patient prognosis [2][3]. As such, quantitative nuclear morphometry has emerged as a valuable and objective tool for distinguishing between benign and malignant lesions.
