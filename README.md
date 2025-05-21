@@ -5,7 +5,7 @@ Breast cancer is one of the most frequently diagnosed cancer among women worldwi
 
 The increasing availability of digitized medical data made possible the integration of computational methods in cancer diagnosis. Data science and machine learning techniques offer robust frameworks for analyzing high-dimensional datasets, enabling the discovery of patterns and predictive biomarkers that may not be evident through conventional analysis. These approaches hold a major potential for enhancing diagnostic accuracy, guiding treatment decisions, and improving patient outcomes [4].
 
-In this project, we perform a comprehensive analysis of a breast cancer dataset, focusing on three main components: exploratory data analysis, unsupervised clustering using K-means, and supervised predictive modeling. Through this multi-stage approach, I aim to uncover meaningful patterns in the data and develop models capable of accurately distinguishing between benign and malignant tumor cells.
+In this project, I perform a comprehensive analysis of a breast cancer dataset, focusing on three main components: exploratory data analysis, unsupervised clustering using K-means, and supervised predictive modeling. Through this multi-stage approach, I aim to uncover meaningful patterns in the data and develop models capable of accurately distinguishing between benign and malignant tumor cells.
 
 ## Project Objective
 
